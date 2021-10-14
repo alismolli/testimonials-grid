@@ -1,0 +1,43 @@
+body{
+    position: inherit;
+}
+main{
+    display:flex;
+    flex-direction: column;
+}
+.container-uno{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.sub_uno_uno{
+    display: flex;
+    flex-direction: column;
+}
+.sub_uno_dos{
+    display: flex;
+    flex-direction: column;
+}
+.container-dos{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.uno{
+    width: 100%;
+}
+.dos{
+    width: 100%;
+}
+.tres{
+    width: 100%;
+}
+.cuatro{
+    width: 100%;
+}
+.cinco{
+    width: 100%;
+    margin: 3rem 0;
+}
